@@ -1,2 +1,2 @@
 # for-test
-for test on HW1
+this repo is for test on HW1
